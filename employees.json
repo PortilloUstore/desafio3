@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "email": "",
+        "department": "john@mail.com",
+        "admissionDate": "2019-01-01"
+    },
+    {
+        "id": "2",
+        "name": "Joana Doei",
+        "email": "joana@mail.com",
+        "department": "IT",
+        "admissionDate": "2019-01-01"
+    }
+]
